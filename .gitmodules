@@ -1,3 +1,3 @@
-[submodule "extern/xkelib"]
-	path = extern/xkelib
-	url = https://github.com/ExposureMG/xkelib
+[submodule "extern/xbox-common"]
+	path = extern/xbox-common
+	url = https://github.com/ExposureMG/xbox-common.git
